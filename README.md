@@ -1,6 +1,6 @@
-# # # # Power-BI-Chocolate-Shipments-Analysis-Dashboard-project # # # #
-Power BI Chocolate Shipments Analysis Dashboard project
-# 🍫 Chocolate Shipments Analysis Dashboard
+Power-BI-Chocolate-Shipments-Analysis-Dashboard-project 
+
+Chocolate Shipments Analysis Dashboard
  Project Overview
 This repository contains my Chocolate Shipments Analysis Dashboard created using **Power BI. 
 The project aims to analyze chocolate shipment data to derive meaningful business insights and visualize them clearly for stakeholders.
